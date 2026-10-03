@@ -1,6 +1,6 @@
 # Política de Privacidade - Tic-Tac-Toe
 
-**Última atualização:** 9 de setembro de 2025
+**Última atualização:** 2 de outubro de 2026
 
 Esta Política de Privacidade descreve como o aplicativo Tic-Tac-Toe coleta, usa e protege suas informações.
 
@@ -36,11 +36,11 @@ O aplicativo armazena apenas as seguintes informações **localmente no seu disp
 - Sequências de vitórias (atual e melhor)
 - Estado atual do jogo (para continuar partidas)
 
-**Importante:** Todas essas informações são armazenadas apenas no seu dispositivo e nunca são transmitidas para servidores externos.
+**Importante:** O próprio aplicativo armazena todas essas informações apenas no seu dispositivo e não as envia para lugar nenhum. Como descrito em Backup de Dados, o sistema Android pode copiá-las para o seu backup (o backup da conta Google ou a transferência entre dispositivos) quando as configurações do seu dispositivo permitirem.
 
 ## Conexão com a Internet
 
-Este aplicativo **NÃO se conecta à internet** e **NÃO transmite dados** para servidores externos, empresas de análise ou serviços de terceiros.
+Este aplicativo **NÃO se conecta à internet** e **NÃO transmite dados** para servidores externos, empresas de análise ou serviços de terceiros. A única cópia dos seus dados que pode sair do seu dispositivo é o backup do Android ou a transferência entre dispositivos descritos em Backup de Dados; o sistema Android as realiza conforme as suas próprias configurações, e o aplicativo não participa disso.
 
 ## Permissões do Aplicativo
 
@@ -58,7 +58,11 @@ Este aplicativo **NÃO utiliza**:
 
 ## Backup de Dados
 
-As configurações e estatísticas do aplicativo podem ser incluídas no backup padrão do Android do seu dispositivo. Esses backups são gerenciados pelo sistema Android e pelas configurações da sua conta Google, não por este aplicativo.
+As configurações do jogo, as suas estatísticas e uma partida inacabada ficam armazenadas no seu
+dispositivo e podem ser incluídas no backup do Android, tanto no backup da conta Google quanto na
+transferência entre dispositivos, conforme as configurações do sistema do seu dispositivo. As
+regras de backup do aplicativo permitem que apenas o arquivo que guarda esses dados seja copiado, e
+nenhum outro dado é coletado.
 
 ## Proteção de Dados de Crianças
 
@@ -74,4 +78,4 @@ Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato co
 
 ---
 
-**Resumo Executivo:** Este é um jogo offline que não coleta dados pessoais, não se conecta à internet e armazena apenas configurações e estatísticas básicas localmente no seu dispositivo.
+**Resumo Executivo:** Este é um jogo offline que não coleta dados pessoais, não se conecta à internet por conta própria e nunca envia nada para lugar nenhum; ele armazena apenas configurações e estatísticas básicas no seu dispositivo, que o backup do Android configurado nas opções do sistema pode copiar.

@@ -1,6 +1,6 @@
 # Privacy Policy - Tic-Tac-Toe
 
-**Last updated:** September 9, 2025
+**Last updated:** October 2, 2026
 
 This Privacy Policy describes how the Tic-Tac-Toe application collects, uses, and protects your information.
 
@@ -36,11 +36,11 @@ The application stores only the following information **locally on your device**
 - Win streaks (current and best)
 - Current game state (to resume games)
 
-**Important:** All this information is stored only on your device and is never transmitted to external servers.
+**Important:** The app itself stores all this information only on your device and sends it nowhere. As described under Data Backup, the Android system may copy it into your own backup (the Google account backup or the device-to-device transfer) when your device settings allow that.
 
 ## Internet Connection
 
-This application **DOES NOT connect to the internet** and **DOES NOT transmit data** to external servers, analytics companies, or third-party services.
+This application **DOES NOT connect to the internet** and **DOES NOT transmit data** to external servers, analytics companies, or third-party services. The only copy of your data that can leave your device is the Android backup or the device-to-device transfer described under Data Backup; the Android system performs those under your own settings, and the app has no part in them.
 
 ## App Permissions
 
@@ -58,7 +58,10 @@ This application **DOES NOT use**:
 
 ## Data Backup
 
-App settings and statistics may be included in your device's standard Android backup. These backups are managed by the Android system and your Google account settings, not by this application.
+The game's settings, your statistics and an unfinished game are stored on your device and may be
+included in your Android backup, both the Google account backup and the device-to-device transfer,
+under your device's system settings. The backup rules of the app allow only the file that holds
+them to be backed up, and no other data is collected.
 
 ## Children's Data Protection
 
@@ -74,4 +77,4 @@ If you have questions about this Privacy Policy, please contact us.
 
 ---
 
-**Executive Summary:** This is an offline game that does not collect personal data, does not connect to the internet, and stores only basic settings and statistics locally on your device.
+**Executive Summary:** This is an offline game that does not collect personal data, does not connect to the internet on its own, and sends nothing anywhere by itself: it stores only basic settings and statistics on your device, and the Android backup configured in your system settings may copy them.

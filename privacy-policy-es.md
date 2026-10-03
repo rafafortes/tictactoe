@@ -1,6 +1,6 @@
 # Política de Privacidad - Tic-Tac-Toe
 
-**Última actualización:** 9 de septiembre de 2025
+**Última actualización:** 2 de octubre de 2026
 
 Esta Política de Privacidad describe cómo la aplicación Tic-Tac-Toe recopila, utiliza y protege su información.
 
@@ -36,11 +36,11 @@ La aplicación almacena únicamente la siguiente información **localmente en su
 - Rachas de victorias (actual y mejor)
 - Estado actual del juego (para reanudar partidas)
 
-**Importante:** Toda esta información se almacena únicamente en su dispositivo y nunca se transmite a servidores externos.
+**Importante:** La propia aplicación almacena toda esta información únicamente en su dispositivo y no la envía a ningún sitio. Como se describe en Respaldo de Datos, el sistema Android puede copiarla en su propio respaldo (el respaldo de la cuenta de Google o la transferencia entre dispositivos) cuando la configuración de su dispositivo lo permita.
 
 ## Conexión a Internet
 
-Esta aplicación **NO se conecta a internet** y **NO transmite datos** a servidores externos, empresas de análisis o servicios de terceros.
+Esta aplicación **NO se conecta a internet** y **NO transmite datos** a servidores externos, empresas de análisis ni servicios de terceros. La única copia de sus datos que puede salir de su dispositivo es el respaldo de Android o la transferencia entre dispositivos descritos en Respaldo de Datos; el sistema Android las realiza según su propia configuración, y la aplicación no interviene en ello.
 
 ## Permisos de la Aplicación
 
@@ -58,7 +58,11 @@ Esta aplicación **NO utiliza**:
 
 ## Respaldo de Datos
 
-Las configuraciones y estadísticas de la aplicación pueden incluirse en el respaldo estándar de Android de su dispositivo. Estos respaldos son gestionados por el sistema Android y la configuración de su cuenta de Google, no por esta aplicación.
+Las configuraciones del juego, sus estadísticas y una partida sin terminar se guardan en su
+dispositivo y pueden incluirse en el respaldo de Android, tanto en el respaldo de la cuenta de
+Google como en la transferencia entre dispositivos, según la configuración del sistema de su
+dispositivo. Las reglas de respaldo de la aplicación permiten que solo se copie el archivo que
+guarda esos datos, y no se recopila ningún otro dato.
 
 ## Protección de Datos de Niños
 
@@ -74,4 +78,4 @@ Si tiene preguntas sobre esta Política de Privacidad, por favor contáctenos.
 
 ---
 
-**Resumen Ejecutivo:** Este es un juego sin conexión que no recopila datos personales, no se conecta a internet y almacena únicamente configuraciones básicas y estadísticas localmente en su dispositivo.
+**Resumen Ejecutivo:** Este es un juego sin conexión que no recopila datos personales, no se conecta a internet por sí mismo y nunca envía nada a ningún sitio; solo guarda configuraciones y estadísticas básicas en su dispositivo, que el respaldo de Android configurado en los ajustes del sistema puede copiar.
